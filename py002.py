@@ -1,3 +1,4 @@
+# aprendendo os comando input e format
 nome = input('Digite seu nome: ')
 print('Seja bem vindo, {}!'.format(nome))
 print('Qual a sua idade?')
