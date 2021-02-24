@@ -1,1 +1,2 @@
-print('Olá, Mundo!')
+#o começo de tudo, mostrar 'Olá, mundo!
+print('Olá, mundo!')
